@@ -1,9 +1,9 @@
 # Python
 Using python to transform the world (zshzsh - snake sound) 
 ## Python Programming + Analytics
-These are the project that I using python to clean, transform and replicate. With big 3 projects that show automation, analysis and ML-level understanding.
+These are the projects that I use python to clean, transform and replicate. With big 3 end-to-end projects that show automation, analysis and ML-level understanding.  
 ### Skill Set: 
-- Movies Project: Using Python for correlations between variables.
+- [Movies Project](https://github.com/Ensya/Python/blob/main/Movieproject.ipynb): Using Python for correlations between variables.
 ### Big Project: 
 #### Project 5 — Automated Data Pipeline (API → Clean → Load → Email)
 Inside this project:
